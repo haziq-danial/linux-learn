@@ -187,3 +187,4 @@ Name resolution (`example.com` → an IP) usually happens in **userspace**, not 
 - [[How Linux Works]]
 - [[Linux Process Management]]
 - [[Linux Filesystems]]
+- [[Linux Kernel Internals]] — the interrupt top/bottom-half split behind packet RX, and RCU's use in the routing/netfilter fast paths

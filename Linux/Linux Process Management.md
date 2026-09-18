@@ -172,3 +172,4 @@ Namespaces answer *"what can this process see?"*; cgroups answer *"how much can 
 - [[Linux Boot Process]]
 - [[Linux Memory Management]]
 - [[Linux Networking Stack]]
+- [[Linux Kernel Internals]] — syscalls, locking, and interrupt handling that underpin scheduling and IPC
